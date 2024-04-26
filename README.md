@@ -17,6 +17,6 @@ C | SEO | HTML | CSS | java
 
 - 🔭 I’m currently working on [Beecrowd](https://judge.beecrowd.com/en)
 - 🌱 I’m currently learning **Python & Data Structures**
-- 📝 I regularly share insights on [my blog]()
+- 📝 I regularly share insights on 
 - 💬 Ask me about **C, HTML, CSS, SEO**
 - 📫 How to reach me: [sakib181234@gmail.com])
